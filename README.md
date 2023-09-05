@@ -1,2 +1,2 @@
-# gdps_spam
+# GDPS Spammer
 GDPS Spammer 
