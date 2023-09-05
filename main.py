@@ -1,12 +1,8 @@
 # Сделал KrikerGaming специально для спама хостингов Фруит спэйс или других хостов
 # Импорты
-from typing import Dict, Any
 import argparse
-from colorama import init, Fore
 import requests
 import os
-import time
-import subprocess
 import asyncio
 import aiohttp
 import random
